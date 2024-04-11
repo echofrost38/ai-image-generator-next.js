@@ -1,13 +1,10 @@
-# Photoshot
+# AvatarGenerator
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/photoshot_ai.svg?style=social&label=Follow%20%40photoshot_ai)](https://twitter.com/photoshot_ai)
 
-An open-source AI avatar generator web app
+An AI avatar generator web app
 
-[![Photoshot](https://photoshot.app/og-cover.jpg)
-](https://user-images.githubusercontent.com/1102595/206658000-d349ef06-e4f2-4626-9deb-6c8a246f7553.mp4)
-
-Try it out at [photoshot.app](https://photoshot.app)
+(https://user-images.githubusercontent.com/1102595/206658000-d349ef06-e4f2-4626-9deb-6c8a246f7553.mp4)
 
 ## Stack
 
@@ -42,7 +39,7 @@ Update environment variable values:
 
 | Environment Variable                 | Explanation                                                                                                                                                                     |
 |--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| DATABASE_URL                         | The connection string for your PostgreSQL database. It will be `postgresql://photoshot:photoshot@localhost:5432/photoshot` if you are using the provided docket setup.          |
+| DATABASE_URL                         | The connection string for your PostgreSQL database. It will be `postgresql://postgres:postgres@localhost:5432/postgres` if you are using the provided docket setup.          |
 | NEXTAUTH_URL                         | The URL of your Next.js application, used for authentication purposes with NextAuth.js.                                                                                         |
 | S3_UPLOAD_KEY                        | The access key for your AWS S3 bucket used for storing pictures.                                                                                                                |
 | S3_UPLOAD_SECRET                     | The secret key for your AWS S3 bucket used for storing pictures.                                                                                                                |
