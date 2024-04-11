@@ -1,10 +1,6 @@
 # AvatarGenerator
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/photoshot_ai.svg?style=social&label=Follow%20%40photoshot_ai)](https://twitter.com/photoshot_ai)
-
-An AI avatar generator web app
-
-(https://user-images.githubusercontent.com/1102595/206658000-d349ef06-e4f2-4626-9deb-6c8a246f7553.mp4)
+An AI avatar generator web app using ChatGPT
 
 ## Stack
 
